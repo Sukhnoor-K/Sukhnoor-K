@@ -1,4 +1,4 @@
-## Hello world! 👋
+## Hello world! 👋👩🏻‍💻
 
 I am a 5th year undergraduate student at the University of Alberta pursuing a double major in Computing Science & Psychology.
 
