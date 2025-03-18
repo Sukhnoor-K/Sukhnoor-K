@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello world! 👋
 
-<!--
-**Sukhnoor-K/Sukhnoor-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 5th year undergraduate student at the University of Alberta pursuing a double major in Computing Science & Psychology.
 
-Here are some ideas to get you started:
+Currently, I am exploring and intrigued by various areas in Computer Science through my coursework and extracurriculars. These include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 software engineering
+- 🤖 human-computer interactions
+- 📈 machine learning
+- 🔍 data analytics
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhnoor-k&show_icons=true&theme=dark&locale=en&layout=compact" alt="sukhnoor-k" /></p>
