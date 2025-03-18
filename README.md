@@ -1,6 +1,6 @@
 ## Hello world! 👋👩🏻‍💻
 
-I am a 5th year undergraduate student at the University of Alberta pursuing a double major in Computing Science & Psychology.
+I am a 5th year undergraduate student at the University of Alberta pursuing a double major in Computing Science 💻 & Psychology 🧠.
 
 Currently, I am exploring and intrigued by various areas in Computer Science through my coursework and extracurriculars. These include:
 
